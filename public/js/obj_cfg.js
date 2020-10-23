@@ -14,6 +14,7 @@ var obj_type_map = {
     Animal:         {color: '#00aaff',  size:[1.6, 0.6, 1.2]},
     Misc:           {color: '#008888',  size:[4.5, 1.8, 1.5]},
     Unknown:        {color: '#008888',  size:[4.5, 1.8, 1.5]},
+    CalibBoard:     {color: '#81C7D4',  size:[0.8, 0.8, 0.2]}
 }
 
 
